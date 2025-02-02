@@ -7,17 +7,17 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/Ademir-Costa/amigosecreto)](https://github.com/Ademir-Costa/amigosecreto/commits/main)
 
 ## 📑 Índice
-- [Descrição](#-descrição-do-projeto)
-- [Demostração](#-Demonstração)
-- [Status](#-status-do-projeto)
-- [Acesso](#-acesso-ao-projeto)
-- [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
-- [Desenvolvedor](#-Desenvolvedora)
-- [Licença](#-licença)
+- [Descrição](#descrição-do-projeto)
+- [Demostração](#Demonstração)
+- [Status](#status-do-projeto)
+- [Acesso](#acesso-ao-projeto)
+- [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
+- [Desenvolvedor](#Desenvolvedor)
+- [Licença](#licença)
 
 ---
 ## Demostração
-<img src="https://github.com/Ademir-Costa/amigosecreto/blob/main/assets/demo.png" widrh=80>
+<img src="https://github.com/Ademir-Costa/amigosecreto/blob/main/assets/demo.png" widrh=40>
 <sub>Demonstração</sub>
 ---
 
@@ -28,6 +28,7 @@ Aplicação web perfeita para organizar sorteios de Amigo Secreto com:
 - Sorteio aleatório instantâneo
 - Exibição temporizada do resultado
 - Reinício automático após ciclo completo
+- Selecionar que está sorteando para evitar escolher a sí próprio
 
 ---
 
@@ -57,15 +58,17 @@ Aplicação web perfeita para organizar sorteios de Amigo Secreto com:
 
 📜 ## Licença
 Este projeto está sob licença MIT - consulte o arquivo LICENSE para detalhes.
-https://github.com/Ademir-Costa/amigosecreto/blob/main/LICENSE
+https://github.com/Ademir-Costa/amigosecreto/blob/main/LICENSE.TXT
 
 
 ## 🔍 Acesso ao Projeto
 **Acesse diretamente pelo GitHub:**
-[https://github.com/Ademir-Costa/amigosecreto/tree/main/amigosecreto_pt-main](https://github.com/Ademir-Costa/amigosecreto/tree/main/amigosecreto_pt-main)
+[https://github.com/Ademir-Costa/amigosecreto](https://github.com/Ademir-Costa/amigosecreto)
 
 **Para executar localmente:**
 ```bash
 git clone https://github.com/Ademir-Costa/amigosecreto.git
-cd amigo-secreto_pt-main
+cd amigo-secreto
 # Abra o arquivo index.html no navegador
+
+
