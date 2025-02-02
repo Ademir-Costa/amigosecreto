@@ -2,17 +2,23 @@
 
 ![Capa](https://raw.githubusercontent.com/Ademir-Costa/amigosecreto.git/assets/amigo-secreto.png)
 [![GitHub license](https://img.shields.io/github/license/Ademir-Costa/amigosecreto.git)](https://github.com/Ademir-Costa/amigosecreto/blob/main/LICENSE)
+[![Demonstração](https://github.com/Ademir-Costa/amigosecreto/blob/main/assets/demo.png)](https://github.com/Ademir-Costa/amigosecreto/blob/main/assets/demo.png)
 [![GitHub code size](https://img.shields.io/github/languages/code-size/Ademir-Costa/amigosecreto)](https://github.com/Ademir-Costa/amigosecreto/tree/main/amigosecreto_pt-main)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Ademir-Costa/amigosecreto)](https://github.com/Ademir-Costa/amigosecreto/commits/main)
 
 ## 📑 Índice
 - [Descrição](#-descrição-do-projeto)
+- [Demostração](#-Demonstração)
 - [Status](#-status-do-projeto)
 - [Acesso](#-acesso-ao-projeto)
 - [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
 - [Desenvolvedor](#-Desenvolvedora)
 - [Licença](#-licença)
 
+---
+## Demostração
+<img src="https://github.com/Ademir-Costa/amigosecreto/blob/main/assets/demo.png" widrh=80>
+<sub>Demonstração</sub>
 ---
 
 ## 🚀 Descrição do Projeto
@@ -33,7 +39,8 @@ Aplicação web perfeita para organizar sorteios de Amigo Secreto com:
 
 - HTML5	Estruturação da página
 - CSS3	Estilização e design responsivo
-- JavaScript	Lógica de sorteio e interatividade
+- JavaScript	
+- Lógica de sorteio e interatividade
 
 ## Desenvolvedor
 <img src="https://github.com/Ademir-Costa.png" width=115>
