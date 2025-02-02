@@ -27,6 +27,12 @@
             <ul id="listaAmigos" class="name-list" aria-labelledby="listaAmigos" role="list"></ul>
             <ul id="resultado" class="result-list" aria-live="polite"></ul>
 
+            <!-- Adicione isto antes do botão de sorteio -->
+            <div class="input-wrapper">
+                <select id="selecionarAmigo" class="input-name">
+                    <option value="">Selecione seu nome aqui</option>
+                </select>
+            </div>
             <div class="button-container">
                 <button class="button-draw" onclick="sortearAmigo()" aria-label="Sortear amigo secreto">
                     <img src="assets/play_circle_outline.png" alt="Ícone para sortear">
