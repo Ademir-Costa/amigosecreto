@@ -1,10 +1,9 @@
 # 🎅 Amigo Secreto - Secret Friends
 
-![Capa](https://raw.githubusercontent.com/Ademir-Costa/Desafio---Alura/main/challenge-amigo-secreto_pt-main/assets/amigo-secreto.png)
-
-[![GitHub license](https://img.shields.io/github/license/Ademir-Costa/Desafio---Alura)](https://github.com/Ademir-Costa/Desafio---Alura/blob/main/LICENSE)
-[![GitHub code size](https://img.shields.io/github/languages/code-size/Ademir-Costa/Desafio---Alura)](https://github.com/Ademir-Costa/Desafio---Alura/tree/main/challenge-amigo-secreto_pt-main)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Ademir-Costa/Desafio---Alura)](https://github.com/Ademir-Costa/Desafio---Alura/commits/main)
+![Capa](https://raw.githubusercontent.com/Ademir-Costa/amigosecreto.git/assets/amigo-secreto.png)
+[![GitHub license](https://img.shields.io/github/license/Ademir-Costa/amigosecreto.git)](https://github.com/Ademir-Costa/amigosecreto/blob/main/LICENSE)
+[![GitHub code size](https://img.shields.io/github/languages/code-size/Ademir-Costa/amigosecreto)](https://github.com/Ademir-Costa/amigosecreto/tree/main/amigosecreto_pt-main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Ademir-Costa/amigosecreto)](https://github.com/Ademir-Costa/amigosecreto/commits/main)
 
 ## 📑 Índice
 - [Descrição](#-descrição-do-projeto)
@@ -45,21 +44,21 @@ Aplicação web perfeita para organizar sorteios de Amigo Secreto com:
 ### Recursos Principais
 - ✨ Adicione participantes via campo de texto
 - 🎲 Sorteio único sem repetições
-- ⏳ Resultado visível por 5 segundos
+- ⏳ Resultado visível por 3 segundos
 - 📱 Compatível com dispositivos móveis
 - 🚫 Bloqueio de sorteio sem participantes
 
 📜 ## Licença
 Este projeto está sob licença MIT - consulte o arquivo LICENSE para detalhes.
-https://github.com/Ademir-Costa/Desafio---Alura/blob/main/LICENSE
+https://github.com/Ademir-Costa/amigosecreto/blob/main/LICENSE
 
 
 ## 🔍 Acesso ao Projeto
 **Acesse diretamente pelo GitHub:**
-[https://github.com/Ademir-Costa/Desafio---Alura/tree/main/challenge-amigo-secreto_pt-main](https://github.com/Ademir-Costa/Desafio---Alura/tree/main/challenge-amigo-secreto_pt-main)
+[https://github.com/Ademir-Costa/amigosecreto/tree/main/amigosecreto_pt-main](https://github.com/Ademir-Costa/amigosecreto/tree/main/amigosecreto_pt-main)
 
 **Para executar localmente:**
 ```bash
-git clone https://github.com/Ademir-Costa/Desafio---Alura.git
-cd Desafio---Alura/challenge-amigo-secreto_pt-main
+git clone https://github.com/Ademir-Costa/amigosecreto.git
+cd amigo-secreto_pt-main
 # Abra o arquivo index.html no navegador
